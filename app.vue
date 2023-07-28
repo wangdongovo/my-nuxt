@@ -7,9 +7,6 @@
 
 
 <script setup lang="ts">
-
-import About from './pages/about/index.vue'
-
 </script>
 
 <style>
